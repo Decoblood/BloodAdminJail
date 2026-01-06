@@ -1,7 +1,7 @@
 # 🔒 BloodAdminJail
 
 ![Version](https://img.shields.io/badge/Blood%20Admin%20Jail-2.3-red?style=for-the-badge&logo=minecraft)
-![Discord](https://img.shields.io/badge/Discord-Join%20Blood%20MC-blue?style=for-the-badge&logo=discord)](https://discord.gg/3dEVexm5RH)
+![Discord](https://img.shields.io/badge/Discord-Join%20Blood%20MC-blue?style=for-the-badge&logo=discord)https://discord.gg/3dEVexm5RH
 
 > **Blood Development** - Minecraft Jail Plugin with Advanced Features
 

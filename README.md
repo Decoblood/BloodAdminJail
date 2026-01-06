@@ -35,4 +35,4 @@ Release with `/adminunjail <player>`
 
 ---
 
-**Developed by Blood Development Team** ❤️</content>
+**Developed by Decoblood** ❤️</content>
